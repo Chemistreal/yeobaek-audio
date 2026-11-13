@@ -1,7 +1,7 @@
 {
  "format": "yeobaek-audio-shelf",
  "version": 1,
- "updated": 1794583610734,
+ "updated": 1794593352986,
  "items": [
   {
    "id": "b-b9c17a6ca227-hq",
@@ -14,19 +14,6 @@
    "speed": 1.5,
    "profile": "high",
    "published": 1794583610055,
-   "source": "iphone"
-  },
-  {
-   "id": "b-14ed631562d7-hq",
-   "title": "아재",
-   "description": "현수 목소리 · 1.5배속",
-   "manifest": "books/b-14ed631562d7-hq/book.json",
-   "bytes": 151815312,
-   "duration": 25302.504,
-   "chars": 237191,
-   "speed": 1.5,
-   "profile": "high",
-   "published": 1794582935076,
    "source": "iphone"
   },
   {
