@@ -1,21 +1,8 @@
 {
  "format": "yeobaek-audio-shelf",
  "version": 1,
- "updated": 1794577068121,
+ "updated": 1794577141494,
  "items": [
-  {
-   "id": "b-41faf53e3846-hq",
-   "title": "주식",
-   "description": "현수 목소리 · 1.5배속",
-   "manifest": "books/b-41faf53e3846-hq/book.json",
-   "bytes": 301079484,
-   "duration": 100359.744,
-   "chars": 988642,
-   "speed": 1.5,
-   "profile": "normal",
-   "published": 1794569152189,
-   "source": "iphone"
-  },
   {
    "id": "b-f331810ac00f-hq",
    "title": "미니멀리즘",
