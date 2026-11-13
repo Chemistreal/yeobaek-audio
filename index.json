@@ -1,8 +1,21 @@
 {
  "format": "yeobaek-audio-shelf",
  "version": 1,
- "updated": 1794567231689,
+ "updated": 1794567634211,
  "items": [
+  {
+   "id": "b-f331810ac00f-hq",
+   "title": "미니멀리즘",
+   "description": "현수 목소리 · 1.5배속",
+   "manifest": "books/b-f331810ac00f-hq/book.json",
+   "bytes": 264195360,
+   "duration": 44032.512,
+   "chars": 432451,
+   "speed": 1.5,
+   "profile": "high",
+   "published": 1794567631993,
+   "source": "iphone"
+  },
   {
    "id": "b-1456da974ac5",
    "title": "시즌2_49강-82강_통합",
