@@ -1,8 +1,21 @@
 {
  "format": "yeobaek-audio-shelf",
  "version": 1,
- "updated": 1794551217289,
+ "updated": 1794553808368,
  "items": [
+  {
+   "id": "b-1f0e8cc84cf7",
+   "title": "4강. 진행 곡선의 정밀 지도",
+   "description": "현수 목소리 · 1.5배속",
+   "manifest": "books/b-1f0e8cc84cf7/book.json",
+   "bytes": 57063168,
+   "duration": 28531.512,
+   "chars": 272772,
+   "speed": 1.5,
+   "profile": "small",
+   "published": 1794553807694,
+   "source": "iphone"
+  },
   {
    "id": "b-6aae1583e8dc",
    "title": "MBTI",
