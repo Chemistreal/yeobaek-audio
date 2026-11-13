@@ -1,8 +1,21 @@
 {
  "format": "yeobaek-audio-shelf",
  "version": 1,
- "updated": 1794460303925,
+ "updated": 1794548665645,
  "items": [
+  {
+   "id": "b-f331810ac00f",
+   "title": "실천 미니멀리즘 58강에서 100강",
+   "description": "현수 목소리 · 1.5배속",
+   "manifest": "books/b-f331810ac00f/book.json",
+   "bytes": 88062768,
+   "duration": 44031.288,
+   "chars": 432451,
+   "speed": 1.5,
+   "profile": "small",
+   "published": 1794548664592,
+   "source": "iphone"
+  },
   {
    "id": "b-1456da974ac5",
    "title": "시즌2_49강-82강_통합",
