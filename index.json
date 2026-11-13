@@ -1,8 +1,21 @@
 {
  "format": "yeobaek-audio-shelf",
  "version": 1,
- "updated": 1794561240694,
+ "updated": 1794562510642,
  "items": [
+  {
+   "id": "b-8cfed5f300bf-hq",
+   "title": "삼성전기",
+   "description": "현수 목소리 · 1.5배속",
+   "manifest": "books/b-8cfed5f300bf-hq/book.json",
+   "bytes": 28419696,
+   "duration": 4736.568,
+   "chars": 40993,
+   "speed": 1.5,
+   "profile": "high",
+   "published": 1794562509724,
+   "source": "iphone"
+  },
   {
    "id": "b-1456da974ac5-hq",
    "title": "통찰력",
