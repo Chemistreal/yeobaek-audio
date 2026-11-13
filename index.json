@@ -1,21 +1,8 @@
 {
  "format": "yeobaek-audio-shelf",
  "version": 1,
- "updated": 1794554292195,
+ "updated": 1794554310936,
  "items": [
-  {
-   "id": "b-1f0e8cc84cf7",
-   "title": "4강. 진행 곡선의 정밀 지도",
-   "description": "현수 목소리 · 1.5배속",
-   "manifest": "books/b-1f0e8cc84cf7/book.json",
-   "bytes": 57063168,
-   "duration": 28531.512,
-   "chars": 272772,
-   "speed": 1.5,
-   "profile": "small",
-   "published": 1794553807694,
-   "source": "iphone"
-  },
   {
    "id": "b-1456da974ac5",
    "title": "시즌2_49강-82강_통합",
