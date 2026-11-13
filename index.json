@@ -1,8 +1,21 @@
 {
  "format": "yeobaek-audio-shelf",
  "version": 1,
- "updated": 1794551211529,
+ "updated": 1794551217289,
  "items": [
+  {
+   "id": "b-6aae1583e8dc",
+   "title": "MBTI",
+   "description": "현수 목소리 · 1.5배속",
+   "manifest": "books/b-6aae1583e8dc/book.json",
+   "bytes": 19658016,
+   "duration": 9828.912,
+   "chars": 86408,
+   "speed": 1.5,
+   "profile": "small",
+   "published": 1794551216258,
+   "source": "iphone"
+  },
   {
    "id": "b-1456da974ac5",
    "title": "시즌2_49강-82강_통합",
