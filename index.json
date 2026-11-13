@@ -1,8 +1,21 @@
 {
  "format": "yeobaek-audio-shelf",
  "version": 1,
- "updated": 1794554310936,
+ "updated": 1794561240694,
  "items": [
+  {
+   "id": "b-1456da974ac5-hq",
+   "title": "통찰력",
+   "description": "현수 목소리 · 1.5배속",
+   "manifest": "books/b-1456da974ac5-hq/book.json",
+   "bytes": 343627920,
+   "duration": 57271.272,
+   "chars": 563693,
+   "speed": 1.5,
+   "profile": "high",
+   "published": 1794561238693,
+   "source": "iphone"
+  },
   {
    "id": "b-1456da974ac5",
    "title": "시즌2_49강-82강_통합",
