@@ -1,7 +1,7 @@
 {
  "format": "yeobaek-audio-shelf",
  "version": 1,
- "updated": 1794563131578,
+ "updated": 1794567126689,
  "items": [
   {
    "id": "b-1f0e8cc84cf7-hq",
@@ -14,19 +14,6 @@
    "speed": 1.5,
    "profile": "high",
    "published": 1794563130376,
-   "source": "iphone"
-  },
-  {
-   "id": "b-adc14073d32a-hq",
-   "title": "양자역학",
-   "description": "현수 목소리 · 1.5배속",
-   "manifest": "books/b-adc14073d32a-hq/book.json",
-   "bytes": 156320064,
-   "duration": 26053.296,
-   "chars": 268497,
-   "speed": 1.5,
-   "profile": "high",
-   "published": 1794562858025,
    "source": "iphone"
   },
   {
