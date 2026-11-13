@@ -1,7 +1,7 @@
 {
  "format": "yeobaek-audio-shelf",
  "version": 1,
- "updated": 1794569154137,
+ "updated": 1794577068121,
  "items": [
   {
    "id": "b-41faf53e3846-hq",
@@ -14,19 +14,6 @@
    "speed": 1.5,
    "profile": "normal",
    "published": 1794569152189,
-   "source": "iphone"
-  },
-  {
-   "id": "b-b9c17a6ca227-hq",
-   "title": "설명회학",
-   "description": "현수 목소리 · 1.5배속",
-   "manifest": "books/b-b9c17a6ca227-hq/book.json",
-   "bytes": 265459968,
-   "duration": 66364.944,
-   "chars": 683426,
-   "speed": 1.5,
-   "profile": "clear",
-   "published": 1794568184729,
    "source": "iphone"
   },
   {
