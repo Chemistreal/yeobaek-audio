@@ -1,7 +1,7 @@
 {
  "format": "yeobaek-audio-shelf",
  "version": 1,
- "updated": 1794553808368,
+ "updated": 1794554292195,
  "items": [
   {
    "id": "b-1f0e8cc84cf7",
@@ -14,19 +14,6 @@
    "speed": 1.5,
    "profile": "small",
    "published": 1794553807694,
-   "source": "iphone"
-  },
-  {
-   "id": "b-6aae1583e8dc",
-   "title": "MBTI",
-   "description": "현수 목소리 · 1.5배속",
-   "manifest": "books/b-6aae1583e8dc/book.json",
-   "bytes": 19658016,
-   "duration": 9828.912,
-   "chars": 86408,
-   "speed": 1.5,
-   "profile": "small",
-   "published": 1794551216258,
    "source": "iphone"
   },
   {
