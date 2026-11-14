@@ -1,8 +1,21 @@
 {
  "format": "yeobaek-audio-shelf",
  "version": 1,
- "updated": 1794617779243,
+ "updated": 1794618935868,
  "items": [
+  {
+   "id": "b-41faf53e3846-hq",
+   "title": "주식",
+   "description": "현수 목소리 · 1.5배속",
+   "manifest": "books/b-41faf53e3846-hq/book.json",
+   "bytes": 602152560,
+   "duration": 100358.712,
+   "chars": 988642,
+   "speed": 1.5,
+   "profile": "high",
+   "published": 1794618932276,
+   "source": "iphone"
+  },
   {
    "id": "b-14ed631562d7",
    "title": "11강. Ne가 이 결혼의 주엔진인 이유",
