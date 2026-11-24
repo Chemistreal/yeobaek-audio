@@ -1,8 +1,21 @@
 {
  "format": "yeobaek-audio-shelf",
  "version": 1,
- "updated": 1795475053290,
+ "updated": 1795486544904,
  "items": [
+  {
+   "id": "b-8bf0f6f5f724",
+   "title": "옷을 대하는 사람- 의복 인스펙터 0강에서 80강 (2-3)",
+   "description": "현수 목소리 · 1.5배속",
+   "manifest": "books/b-8bf0f6f5f724/book.json",
+   "bytes": 484288704,
+   "duration": 80714.736,
+   "chars": 807374,
+   "speed": 1.5,
+   "profile": "high",
+   "published": 1795486540924,
+   "source": "iphone"
+  },
   {
    "id": "b-1456da974ac5",
    "title": "시즌2_49강-82강_통합",
