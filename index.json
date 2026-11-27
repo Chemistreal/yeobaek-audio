@@ -1,8 +1,21 @@
 {
  "format": "yeobaek-audio-shelf",
  "version": 1,
- "updated": 1795803619360,
+ "updated": 1795805715937,
  "items": [
+  {
+   "id": "b-6aae1583e8dc-hq",
+   "title": "MBTI",
+   "description": "현수 목소리 · 1.5배속",
+   "manifest": "books/b-6aae1583e8dc-hq/book.json",
+   "bytes": 58981248,
+   "duration": 9830.16,
+   "chars": 86408,
+   "speed": 1.5,
+   "profile": "high",
+   "published": 1795805715373,
+   "source": "iphone"
+  },
   {
    "id": "b-825451eec61a-hq",
    "title": "패션복습 파트1",
