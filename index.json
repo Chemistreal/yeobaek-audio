@@ -1,8 +1,21 @@
 {
  "format": "yeobaek-audio-shelf",
  "version": 1,
- "updated": 1795808144349,
+ "updated": 1795811944139,
  "items": [
+  {
+   "id": "b-bf5d04a9aef5-hq",
+   "title": "다음 사회의 지도",
+   "description": "현수 목소리 · 1.5배속",
+   "manifest": "books/b-bf5d04a9aef5-hq/book.json",
+   "bytes": 118791936,
+   "duration": 19798.608,
+   "chars": 192248,
+   "speed": 1.5,
+   "profile": "high",
+   "published": 1795811943652,
+   "source": "iphone"
+  },
   {
    "id": "b-aa4854c717e3-hq",
    "title": "인스펙터(음식)",
