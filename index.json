@@ -1,7 +1,7 @@
 {
  "format": "yeobaek-audio-shelf",
  "version": 1,
- "updated": 1795786776806,
+ "updated": 1795789779200,
  "items": [
   {
    "id": "b-8cfed5f300bf-hq",
@@ -14,19 +14,6 @@
    "speed": 1.5,
    "profile": "high",
    "published": 1795786775061,
-   "source": "iphone"
-  },
-  {
-   "id": "b-1456da974ac5",
-   "title": "시즌2_49강-82강_통합",
-   "description": "현수 목소리 · 1.5배속",
-   "manifest": "books/b-1456da974ac5/book.json",
-   "bytes": 344668032,
-   "duration": 57444.624,
-   "chars": 563693,
-   "speed": 1.5,
-   "profile": "high",
-   "published": 1794674378421,
    "source": "iphone"
   }
  ]
