@@ -1,1 +1,1 @@
-{"format":"yeobaek-build-status","version":1,"updated":1795797722122,"run":"46004639828","current":null,"queue":[{"id":"b-b9c17a6ca227-hq","title":"설명회학","chars":683426,"wait":"queue"}]}
+{"format":"yeobaek-build-status","version":1,"updated":1795797723305,"run":"46004639828","current":{"id":"b-b9c17a6ca227-hq","title":"설명회학","chars":683426,"stage":"start","done":0,"total":2042,"retries":0,"etaSec":null,"started":1795797723305},"queue":[]}
