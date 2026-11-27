@@ -1,8 +1,21 @@
 {
  "format": "yeobaek-audio-shelf",
  "version": 1,
- "updated": 1795797654862,
+ "updated": 1795803619360,
  "items": [
+  {
+   "id": "b-825451eec61a-hq",
+   "title": "패션복습 파트1",
+   "description": "현수 목소리 · 1.5배속",
+   "manifest": "books/b-825451eec61a-hq/book.json",
+   "bytes": 20079936,
+   "duration": 3346.608,
+   "chars": 30363,
+   "speed": 1.5,
+   "profile": "high",
+   "published": 1795803618535,
+   "source": "iphone"
+  },
   {
    "id": "b-1456da974ac5-hq",
    "title": "통찰력",
