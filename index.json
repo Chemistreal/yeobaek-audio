@@ -1,7 +1,7 @@
 {
  "format": "yeobaek-audio-shelf",
  "version": 1,
- "updated": 1795826901126,
+ "updated": 1795826912215,
  "items": [
   {
    "id": "b-14ed631562d7-hq",
@@ -27,19 +27,6 @@
    "speed": 1.5,
    "profile": "high",
    "published": 1795811943652,
-   "source": "iphone"
-  },
-  {
-   "id": "b-aa4854c717e3-hq",
-   "title": "인스펙터(음식)",
-   "description": "현수 목소리 · 1.5배속",
-   "manifest": "books/b-aa4854c717e3-hq/book.json",
-   "bytes": 77046048,
-   "duration": 12840.96,
-   "chars": 109054,
-   "speed": 1.5,
-   "profile": "high",
-   "published": 1795808143815,
    "source": "iphone"
   },
   {
