@@ -1,7 +1,7 @@
 {
  "format": "yeobaek-audio-shelf",
  "version": 1,
- "updated": 1795826964221,
+ "updated": 1795827082039,
  "items": [
   {
    "id": "b-825451eec61a-hq",
@@ -14,19 +14,6 @@
    "speed": 1.5,
    "profile": "high",
    "published": 1795803618535,
-   "source": "iphone"
-  },
-  {
-   "id": "b-1456da974ac5-hq",
-   "title": "통찰력",
-   "description": "현수 목소리 · 1.5배속",
-   "manifest": "books/b-1456da974ac5-hq/book.json",
-   "bytes": 344738448,
-   "duration": 57456.36,
-   "chars": 563693,
-   "speed": 1.5,
-   "profile": "high",
-   "published": 1795797654097,
    "source": "iphone"
   }
  ]
