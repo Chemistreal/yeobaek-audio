@@ -1,8 +1,21 @@
 {
  "format": "yeobaek-audio-shelf",
  "version": 1,
- "updated": 1795851275939,
+ "updated": 1795854572803,
  "items": [
+  {
+   "id": "b-ee39491e75f0-hq",
+   "title": "옷을 대하는 사람- 의복 인스펙터 0강에서 80강 (1-3)",
+   "description": "현수 목소리 · 1.5배속",
+   "manifest": "books/b-ee39491e75f0-hq/book.json",
+   "bytes": 491323248,
+   "duration": 81887.16,
+   "chars": 809017,
+   "speed": 1.5,
+   "profile": "high",
+   "published": 1795854570399,
+   "source": "iphone"
+  },
   {
    "id": "b-825451eec61a-hq",
    "title": "패션복습 파트1",
