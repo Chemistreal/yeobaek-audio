@@ -1,1 +1,1 @@
-{"format":"yeobaek-build-status","version":1,"updated":1795865691333,"run":"46140023606","current":null,"queue":[{"id":"b-255c77c544d9-hq","title":"패션 코디네이션 100강 완결판","chars":895599,"wait":"queue"}]}
+{"format":"yeobaek-build-status","version":1,"updated":1795865692320,"run":"46140023606","current":{"id":"b-255c77c544d9-hq","title":"패션 코디네이션 100강 완결판","chars":895599,"stage":"start","done":0,"total":7843,"retries":0,"etaSec":null,"started":1795865692320},"queue":[]}
