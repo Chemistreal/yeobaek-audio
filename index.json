@@ -1,7 +1,7 @@
 {
  "format": "yeobaek-audio-shelf",
  "version": 1,
- "updated": 1795826912215,
+ "updated": 1795826933946,
  "items": [
   {
    "id": "b-14ed631562d7-hq",
@@ -14,19 +14,6 @@
    "speed": 1.5,
    "profile": "high",
    "published": 1795816051791,
-   "source": "iphone"
-  },
-  {
-   "id": "b-bf5d04a9aef5-hq",
-   "title": "다음 사회의 지도",
-   "description": "현수 목소리 · 1.5배속",
-   "manifest": "books/b-bf5d04a9aef5-hq/book.json",
-   "bytes": 118791936,
-   "duration": 19798.608,
-   "chars": 192248,
-   "speed": 1.5,
-   "profile": "high",
-   "published": 1795811943652,
    "source": "iphone"
   },
   {
